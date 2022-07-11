@@ -11,8 +11,13 @@ An image model is created with four classes: Rock, Paper, Scissors and Nothing. 
 The trained model named keras_model.h5 is downloaded along with the labels (labels.txt) and pushed to the GitHub repository.
 
 **MILESTONE 3**
+
 Here, different functions are created to handle different tasks.
-The get_computer_choice function helps the computer to select a random choice from the 3 options available - Rock, Paper or Scissors
-The get_user_choice asks for an input from the user. 
+
+The get_computer_choice function helps the computer to select a random choice from the 3 options available - Rock, Paper or Scissors.
+
+The get_user_choice asks for an input from the user.
+
 The get_winner functions does a comparison of inputs of the User and the Computer, and annouces a winner based on the rules of the game.
+
 The Play function actually plays the game. It calls the previous functions into play.
