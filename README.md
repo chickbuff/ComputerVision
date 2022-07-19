@@ -72,7 +72,11 @@ The player with the higher number of wins after 5 rounds wins the game
 
 The game is played by defining a function to create an instance of the class and calling the function.
 
-The game begins by displaying a set of instruction the the user, thereafter requestibg for the player's name before the game begins.
+
+The game begins by displaying a set of instruction the the user, thereafter requests for the player's name before the game begins.
+
+![image](https://user-images.githubusercontent.com/108297261/179730034-3412069b-795a-4a58-b674-9f29dd2da2bc.png)
+
 
 The game can be improved by having the round wins and overall winner displayed on the Web display.
 
