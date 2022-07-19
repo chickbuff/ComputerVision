@@ -73,12 +73,19 @@ The player with the higher number of wins after 5 rounds wins the game
 
 ![image](https://user-images.githubusercontent.com/108297261/179725462-a9bbc859-49db-4e86-9aa2-45b71f1593cc.png)
 
-The game is played by defining a function to create an instance of the class and calling the function.
-
 
 The game begins by displaying a set of instruction the the user, thereafter requests for the player's name before the game begins.
 
 ![image](https://user-images.githubusercontent.com/108297261/179730034-3412069b-795a-4a58-b674-9f29dd2da2bc.png)
+
+The game will not begin unless a character (at least) is supplied as the Player's name
+
+![image](https://user-images.githubusercontent.com/108297261/179733409-77ba7710-cef0-462a-abde-9e011ab9a36d.png)
+
+
+The game is played by defining a function to create an instance of the class and calling the function in the script.
+
+![image](https://user-images.githubusercontent.com/108297261/179733989-ce9accf8-4d2d-4467-bb6d-1556e9425a95.png)
 
 
 The game can be improved by having the round wins and overall winner displayed on the Web display.
