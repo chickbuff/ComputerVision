@@ -32,7 +32,7 @@ This code is in manual_rps python file
 
 **MILESTONE 4**
 
-The camera (webcam display) is used to play the game.
+The camera (webcam display) is used to play the game. The script is located in camera_rps.py
 
 The manual input is replaced by the user choice shown to the camera. 
 
