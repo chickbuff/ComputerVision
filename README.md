@@ -11,8 +11,11 @@ An image model is created with four classes: Rock, Paper, Scissors and Nothing. 
 The trained model named keras_model.h5 is downloaded along with its labels. (labels.txt)
 
 Before the model was used, the depenencies that it needed to run was installed.
+We started by first creating a virtual environment(rps_env), activated it, installed pip and using pip to install every other libraries i.e pip install opencv -python, pip install tensorflow and pip install ipykernel etc
 
-It started by creating a virtual environment(rps_env), activated it, installed pip and every other libraries - opencv, tensorflow, ipykernel etc
+The command below was run to enable other user who wants to use this model to easily install these exact dependencies by just running pip install requirements.txt
+
+pip list > requirements.txt
 
 **MILESTONE 3**
 
